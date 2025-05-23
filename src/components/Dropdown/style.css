@@ -1,0 +1,32 @@
+.select-box {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5% 4%;
+}
+
+.select-box__title1 {
+    width: 45%;
+    font-size: 6rem;
+    text-transform: uppercase;
+}
+
+.select-container {
+    margin-top: 5%;
+}
+
+.container__select {
+    width: 100%;
+    max-width: 200px;
+    padding: 5% 10px;
+    margin: 2%;
+    border-radius: 10rem;
+}
+
+.option {
+    width: 100%;
+    max-width: 50px;
+    margin: 2%;
+    padding: 5% 8%;
+    background-color: rgb(248, 215, 221);
+}
+
